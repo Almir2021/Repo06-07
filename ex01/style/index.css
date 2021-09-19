@@ -1,0 +1,47 @@
+body {
+  background-color: white
+  ;
+}
+h4 { color: red;
+  text-align: center;
+}
+
+h5 {
+  padding: 0 20Px 0;
+  color: blue;
+}
+
+img {
+
+  padding: 10px;
+  width: 90%;
+    height: 100%;
+
+}
+p {
+ padding: 0px 10px;
+}
+
+div {
+
+
+}
+.vanjskiDiv{
+  margin: auto;
+  width: 60%;
+  padding: 0;
+  background-color: ;
+}
+.slika {
+  margin: 0px;
+
+  position: inherit;
+  display:inline-block;
+  float: left;
+  padding: 0px;
+
+  background-color: ;
+  height: 33.33%;
+  width: calc(33.33%)
+
+}
